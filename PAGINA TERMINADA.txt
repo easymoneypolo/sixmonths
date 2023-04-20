@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<title>6 meses<3</title>
+	<style>
+	body {
+		font-family: Arial, sans-serif;
+		background-image: url('https://i.imgur.com/MpH0gTz.jpeg');
+		background-size: cover;
+	}
+
+	h1 {
+		text-align: center;
+		color: #444444;
+	}
+
+	.question-container {
+		background-color: #ffffff;
+		border-radius: 5px;
+		box-shadow: 0px 2px 5px rgba(0,0,0,0.1);
+		padding: 20px;
+		margin: 20px auto;
+		max-width: 600px;
+		text-align: center;
+	}
+
+	.answer {
+		display: inline-block;
+		background-color: #ffffff;
+		border-radius: 5px;
+		box-shadow: 0px 2px 5px rgba(0,0,0,0.1);
+		padding: 10px;
+		margin: 10px;
+		cursor: pointer;
+	}
+
+	.correct {
+		background-color: #8BC34A;
+	}
+
+	.incorrect {
+		background-color: #FF5722;
+	}
+
+	.photo-container {
+		margin-top: 20px;
+		display: none;
+	}
+
+	.photo {
+		max-width: 100%;
+	}
+</style>
+
+
+</head>
+
+
+<body>
+	<style>
+h1 {
+color: white;
+}
+</style>
+	<h1>6 meses</h1><br>
+
+<body>
+	<style>
+h5 {
+color: white;
+}
+</style>
+<h5> <center>
+Hoy celebramos seis meses de estar juntos y quiero decirte que cada día me enamoro más de ti.</h5>
+<h5><center>No puedo expresar con palabras lo mucho que te amo y lo agradecido que estoy de tenerte en mi vida. </h5> <h5><center>Eres la luz que ilumina mi camino y espero seguir caminando juntos por mucho tiempo más.
+</h5>
+
+<br>
+
+
+	<div class="question-container">
+		<h2>Nuestra primera foto</h2>
+		<p>El día de nuestra primera foto juntos sentí una gran alegría y emoción al verte a mi lado, supe que habíamos creado algo especial y que atesoraría ese momento para siempre. Me sentí afortunado de tenerte en mi vida y sabía que nuestro amor era real. Gracias por seguir llenando mi vida de momentos inolvidables. Te amo cada día más.</p>
+<p><center>¿La recuerdas?</p>
+
+		
+		<div class="answer" data-is-correct="true">♡</div>
+		<div class="photo-container"><img class="photo" src="https://i.imgur.com/AH2CulA.jpeg"></div>
+	</div>
+
+	<div class="question-container">
+		<h2>Potencialmente nuestra mejor foto</h2>
+		<p>Aunque esta foto no te guste por algunos detalles, esta foto es muy probablemente mi favorita. Contemplé el hermoso atardecer mientras abrazaba al amor de mi vida. Es la foto perfecta. </p>
+		<div class="answer" data-is-correct="true">♡</div>
+
+		<div class="photo-container"><img class="photo" src="https://i.imgur.com/IqqDhME.jpeg"></div>
+	</div>
+
+	<div class="question-container">
+		<h2>Nada más mira esta foto</h2>
+		<p>Literalmente, si no fueramos tomado esta foto, toda mi vida la fuera vivido con rabia e impotencia. Esta foto fué muy pero muy necesaria.</p>
+		
+		<div class="answer" data-is-correct="true">♡</div>
+		
+		<div class="photo-container"><img class="photo" src="https://i.imgur.com/iLKeKp8.jpeg"></div>
+	</div>
+	<div class="question-container">
+		<h2>Ni con el filtro mas feo nos vemos feos</h2>
+		<p>Sin palabras, no se como haces pero te ves hermosa.</p>
+		
+		<div class="answer" data-is-correct="true">♡</div>
+		
+		<div class="photo-container"><img class="photo" src="https://i.imgur.com/yRYFPNJ.jpeg"></div>
+	</div>
+	<div class="question-container">
+		<h2>Dibujito</h2>
+		<p>Nunca imaginé que me hicieras algo así, fue tan inesperado que me enviaras esto y te quedó tannn hermosoo. Tiene un valor muy grande para mi y por eso la puse aquí, gracias por esto.</p>
+
+		<div class="answer" data-is-correct="true">♡</div>
+		
+		<div class="photo-container"><img class="photo" src="https://i.imgur.com/s4oSvut.jpeg"></div>
+	</div>
+	<div class="question-container">
+		<h2>Gracias x todo</h2>
+		<p>No soy mucho de fotos pero contigo me tomo las que sea, gracias por todo mi amor. Eres el amor de mi vida y me haces demasiado feliz cada día mas, nada mas mira las vainas que ando haciendo por dios...</p>
+		
+		<div class="answer" data-is-correct="true">♡</div>
+		<div class="photo-container"><img class="photo" src="https://i.imgur.com/JG6HMcf.jpeg"></div>
+	</div>
+
+		<div class="question-container">
+		<h2>Por último</h2>
+<p><center> Hoy celebramos 6 meses de estar juntos y quiero agradecerte por cada momento que hemos compartido. Eres la persona más especial en mi vida y no puedo imaginar mi vida sin ti.</p>
+<p>Eres el amor de mi vida y quiero estar a tu lado para siempre.
+Todos los días me doy cuenta de que no he encontraré a alguien más perfecto para mí que tú. Eres mi mejor amiga, mi confidente, mi dúo cantante, mi apoyo incondicional y, sobre todo, mi verdadero amor.</p>
+<p>
+Las palabras no pueden expresar cuánto aprecio todo lo que has hecho por mí y que siempre estás ahí para mí sin importar nada. Desde los buenos momentos hasta los tiempos difíciles, siempre puedo contar contigo para compartirlos. Además, quiero que recuerdes que habrá alguien cerca de ti, pase lo que pase, siempre estaré ahí solo para ti, mi amor.</p>
+<p> No puedo imaginar mi vida sin ti. Eres la razón por la que me despierto todas las mañanas con una sonrisa en la cara y la razón por la que me acuesto todas las noches agradecido por otro día contigo. Eres mi hogar, mi refugio y mi paz en un mundo ajetreado.
+
+Te amo con todo mi corazón y mi alma. Eres el amor de mi vida y siempre lo serás. Quiero hacerte feliz y hacerte sentir amada como te mereces. Juntos hemos vivido algunos momentos inolvidables, y sé que tenemos muchos más por venir.</p>
+
+<p>Gracias por ser mi novia, mi mejor amiga, mi compañera de vida y mi todo. Por siempre te amaré con todo mi corazón. </p>
+<p>
+
+Te amo más de lo que puedo expresar con palabras.</p>
+
+<div class="answer" data-is-correct="true">♡</div>
+		<div class="photo-container"><img class="photo" src="https://i.imgur.com/wiXvTaK.jpeg"></div>
+	</div>
+
+	<script>
+		const answers = document.querySelectorAll('.answer');
+
+		answers.forEach(answer => {
+			answer.addEventListener('click', () => {
+				const isCorrect = answer.dataset.isCorrect === 'true';
+				if (isCorrect) {
+					answer.classList.add('correct');
+					answer.parentNode.querySelector('.photo-container').style.display = 'block';
+					const nextQuestionContainer = answer.parentNode.nextElementSibling;
+					if (nextQuestionContainer) {
+						nextQuestionContainer.style.display = 'block';
+					}
+				} else {
+					answer.classList.add('incorrect');
+
+
+			}
+		});
+	});
+</script>
+
+</body>
+</html>
+				
